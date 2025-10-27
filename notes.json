@@ -1,0 +1,80 @@
+[
+  {
+    "address": "8625 NE Juanita Drive, Kirkland, WA 98034",
+    "price": "$6,250,000",
+    "beds": 5,
+    "baths": 3,
+    "url": "https://www.zillow.com/homedetails/8625-NE-Juanita-Dr-Kirkland-WA-98034/48965294_zpid/"
+  },
+  {
+    "address": "7128 NE 119th Lane, Kirkland, WA 98034",
+    "price": "$3,950,000",
+    "beds": 4,
+    "baths": 4,
+    "url": "https://www.zillow.com/homedetails/7128-NE-119th-Ln-Kirkland-WA-98034/48965308_zpid/"
+  },
+  {
+    "address": "7116 NE 119th Lane, Kirkland, WA 98034",
+    "price": "$3,849,000",
+    "beds": 4,
+    "baths": 4,
+    "url": "https://www.zillow.com/homedetails/7116-NE-119th-Ln-Kirkland-WA-98034/48965307_zpid/"
+  },
+  {
+    "address": "10939 84th Place NE, Kirkland, WA 98034",
+    "price": "$3,750,000",
+    "beds": 4,
+    "baths": 3,
+    "url": "https://www.zillow.com/homedetails/10939-84th-Pl-NE-Kirkland-WA-98034/48965312_zpid/"
+  },
+  {
+    "address": "8814 NE Juanita Drive, Kirkland, WA 98034",
+    "price": "$3,550,000",
+    "beds": 5,
+    "baths": 5,
+    "url": "https://www.zillow.com/homedetails/8814-NE-Juanita-Dr-Kirkland-WA-98034/48965300_zpid/"
+  },
+  {
+    "address": "11909 90th Avenue NE, Kirkland, WA 98034",
+    "price": "$3,185,000",
+    "beds": 4,
+    "baths": 4,
+    "url": "https://www.zillow.com/homedetails/11909-90th-Ave-NE-Kirkland-WA-98034/48965303_zpid/"
+  },
+  {
+    "address": "9003 NE Juanita Lane, Kirkland, WA 98034",
+    "price": "$2,795,000",
+    "beds": 3,
+    "baths": 2,
+    "url": "https://www.zillow.com/homedetails/9003-NE-Juanita-Ln-Kirkland-WA-98034/48965301_zpid/"
+  },
+  {
+    "address": "13604 100th Avenue NE, Kirkland, WA 98034",
+    "price": "$2,795,000",
+    "beds": null,
+    "baths": null,
+    "url": "https://www.zillow.com/homedetails/13604-100th-Ave-NE-Kirkland-WA-98034/48965310_zpid/"
+  },
+  {
+    "address": "10410 NE 142nd Street, Kirkland, WA 98034",
+    "price": "$2,650,000",
+    "beds": 5,
+    "baths": 4,
+    "url": "https://www.zillow.com/homedetails/10410-NE-142nd-St-Kirkland-WA-98034/48965309_zpid/"
+  },
+  {
+    "address": "8533 NE Juanita Dr (Private Lane), Kirkland, WA 98034",
+    "price": "$2,498,000",
+    "beds": 4,
+    "baths": 4,
+    "url": "https://www.zillow.com/homedetails/8533-NE-Juanita-Dr-Kirkland-WA-98034/48965306_zpid/"
+  },
+  {
+    "address": "7223 NE 118th Court, Kirkland, WA 98034",
+    "price": "$2,325,000",
+    "beds": 5,
+    "baths": 4,
+    "url": "https://www.zillow.com/homedetails/7223-NE-118th-Ct-Kirkland-WA-98034/48965305_zpid/"
+  }
+]
+.
